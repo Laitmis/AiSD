@@ -1,0 +1,2 @@
+
+	int h = height(root);
